@@ -3,7 +3,7 @@
 - 🐥 vika维格表 Co-founder & CTO, 零代码可视化数据库产品 [vika.cn](https://vika.cn), no-code database with powerfull full-code react widget。结合无代码数据库和 React 高代码 UI 定制能力, 成为搭建业务应用的最佳手段。
 - 🔭 使用 [vika widgetSDK](https://vika.cn/developers) 在维格表上创建你的 BackendLess Realtime React widget 吧
 - 👉 持续招聘优秀的前端、nodejs、全栈工程师。Email: chenjiabei[x]vikadata.com
-
+- ⚡ Fun fact: fan of Justin Bieber
 ----
 [![Biber's GitHub stats](https://github-readme-stats.vercel.app/api?username=JailBreakC&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
